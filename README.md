@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello there! 👋 I'm Nándor Török
+# Hello there! :wave: I'm Nándor Török
 
 #### Student, Frontend Developer
 
