@@ -2,7 +2,7 @@
 
 # Hello there! :wave: I'm Nándor Török
 
-#### Student, Frontend Developer
+#### Student, Web Developer
 
 </div>
 
@@ -31,4 +31,4 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaconPardner&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandortorok&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
